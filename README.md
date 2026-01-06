@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jung-Fen (Jeff)! 👋
 
-<!--
-**JungFenChang/JungFenChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | LLM & RAG Developer** *Building intelligent systems that bridge the gap between complex data and human-centric solutions.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise
+
+* **AI/Machine Learning:** Scikit-learn, PyTorch, SHAP (XAI), K-Means
+* **Generative AI (LLM):** RAG (FAISS/LangChain), PEFT/LoRA Fine-tuning
+* **Deployment:** Ollama (GGUF), Model Quantization
+* **Full-Stack:** Python, Django, Chainlit
+
+---
+
+### 🍷 Featured Project: [WineCaller](https://github.com/JungFenChang/WineAI_Expert)
+
+An end-to-end AI platform for wine quality prediction and professional consultation.
+* **ML & XAI:** Integrated Scikit-learn with **SHAP** for transparent quality scoring.
+* **Expert QA:** Implemented **RAG** with FAISS for hallucination-free wine knowledge.
+* **Local LLM:** Fine-tuned via **LoRA** and deployed locally using **Ollama/GGUF**.
+* **Architecture:** Orchestrated via **Django** and **Chainlit**.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Your Profile Link]
+* **Email:** [Your Email Address]
