@@ -15,7 +15,7 @@
 
 ---
 
-### 🍷 Featured Project: [Wine Expert]([https://github.com/JungFenChang/WineAI_Expert](https://github.com/JungFenChang/wine_expert_ai))
+### 🍷 Featured Project: [Wine Expert](https://github.com/JungFenChang/wine_expert_ai)
 
 An end-to-end AI platform for wine quality prediction and professional consultation.
 * **ML & XAI:** Integrated Scikit-learn with SHAP for transparent and interpretable quality scoring.
